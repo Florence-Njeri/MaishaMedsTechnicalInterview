@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maisha Meds Technical Interview</string>
+    <string name="userId">User id</string>
+    <string name="id">Id</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+
+</resources>
